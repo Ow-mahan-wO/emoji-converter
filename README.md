@@ -11,6 +11,8 @@ Emojis:
 
  >_< => 😆
 
+ :| => 😐
+ 
 language used:
 
 -html
