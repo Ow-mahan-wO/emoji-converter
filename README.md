@@ -1,20 +1,22 @@
 # emoji-converter
 Emojis:
 
-:) => 😀
+ :) => 😀
 
-:( => 🙁
+ :( => 🙁
 
-:D => 😃
+ :D => 😃
 
-:_( => 😢
+ :_( => 😢
 
->_< => 😆
+ >_< => 😆
 
 language used:
 
 -html
+
 -css
+
 -javascript
 
 github page link:
